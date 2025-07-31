@@ -9,7 +9,7 @@ This is a simple Todo List application built using **HTML**, **Tailwind CSS**, a
 - 🔍 Search todos by content
 - 📅 Filter todos by date range
 - ⏳ Loading states & error messages
-- 💾 Todos added by user are stored in `localStorage`
+- 💾 Todos added by user
 - 🧠 Built with Fetch API and Tailwind CSS
 
 ## 📁 Tech Stack
