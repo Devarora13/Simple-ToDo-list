@@ -18,7 +18,6 @@ This is a simple Todo List application built using **HTML**, **Tailwind CSS**, a
 - **Vanilla JavaScript** (ES6 modules)
 - **Fetch API** for HTTP requests
 - **DummyJSON API** as backend
-- **localStorage** for user-added todos
 
 ## 🧩 Functionality
 
